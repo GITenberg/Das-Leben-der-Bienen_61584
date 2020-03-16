@@ -1,0 +1,53 @@
+_repo: Das-Leben-der-Bienen_61584
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Müller-Schönefeld, Wilh.
+    aliases:
+    - Müller-Schoenefeld, Ernst Wilhelm
+    - Muller-Schonefeld, Wilh.
+    - Müller-Schönefeld, Wilhelm
+    - Müller-Schoenefeld, Wilhelm
+    birthdate: 1867
+    deathdate: 1944
+    gutenberg_agent_id: '51501'
+    url: http://www.gutenberg.org/2009/agents/51501
+    wikipedia: https://de.wikipedia.org/wiki/Wilhelm_M%C3%BCller-Sch%C3%B6nefeld
+  translator:
+    agent_name: Oppeln-Bronikowski, Friedrich von
+    aliases:
+    - Oppeln-Bronikowski, F. v. (Friedrich)
+    - Von Oppeln-Bronikowski, Friedrich
+    birthdate: 1873
+    deathdate: 1936
+    gutenberg_agent_id: '51502'
+    url: http://www.gutenberg.org/2009/agents/51502
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
+    - https://de.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
+creator:
+  author:
+    agent_name: Maeterlinck, Maurice
+    birthdate: 1862
+    deathdate: 1949
+    gutenberg_agent_id: '795'
+    url: http://www.gutenberg.org/2009/agents/795
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
+    - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
+description: ''
+gutenberg_issued: '2020-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61584'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Bees'
+- !lcc 'PQ'
+- GITenberg
+title: Das Leben der Bienen
+url: http://www.gutenberg.org/ebooks/61584
