@@ -1,5 +1,5 @@
 _repo: Das-Leben-der-Bienen_61584
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Müller-Schönefeld, Wilh.
@@ -25,6 +25,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
     - https://de.wikipedia.org/wiki/Friedrich_von_Oppeln-Bronikowski
+covers:
+- cover_type: archival
+  image_path: 61584-h/images/cover.jpg
 creator:
   author:
     agent_name: Maeterlinck, Maurice
@@ -36,6 +39,8 @@ creator:
     - https://en.wikipedia.org/wiki/Maurice_Maeterlinck
     - https://fr.wikipedia.org/wiki/Maurice_Maeterlinck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61584#Das-Leben-der-Bienen
 gutenberg_issued: '2020-03-08'
 gutenberg_type: Text
 identifiers:
